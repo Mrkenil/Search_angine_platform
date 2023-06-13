@@ -15,5 +15,3 @@ List<Map<String, dynamic>> platforms = [
     "gif": "https://i.makeagif.com/media/4-13-2020/YVLplT.gif",
   },
 ];
-
-List bookmark = [];
